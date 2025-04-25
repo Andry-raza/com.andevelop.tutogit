@@ -1,0 +1,8 @@
+# Documentation du tuto GitHub avec Git 
+
+## Initialisation du dépôt
+
+```bash
+git init
+git remote add origin git@github.com:Andry-raza/com.andevelop.tutogit.git (SSH_REPO)
+```
